@@ -1,40 +1,43 @@
-## About me
+<div align="center">
+  <h1><span style="color: darkgrey;">Andrey Masunov</span></h1>
+  <h2><span style="color: lightgrey;">Software Engineer</span></h2>
+</div>
 
-### Greetings! 👋 I'm Andrey Masunov, and I'm delighted to share a bit about some of my interests.
+---
 
--------------------------------
+### 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-masunov)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andrey.masunov@gmail.com)
 
-### Audiobooks:
-I have a profound love for audiobooks, immersing myself in worlds crafted by brilliant authors. If you're looking for recommendations, my top picks include timeless classics like:
-1. [The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)
-2. [The little Golden Calf](https://en.wikipedia.org/wiki/The_Little_Golden_Calf)
-3. [Adventures of Sherlock Holmes](https://en.wikipedia.org/wiki/Sherlock_Holmes)
+---
 
-------------------------------
+### 🛠 Tech Stack
+#### Programming Languages
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### Traveling:
-Traveling is not just a hobby for me; it's a way of life. Over the next few years, my sights are set on exploring following cities:
-* London 
-* Tokyo
-* Beijing
-* Singapore
-* New York
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
----------------------------
+#### Web Development
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
-### Cooking:
-Cooking is my creative outlet, and I take pride in preparing delicious meals that satisfy both my taste buds and those of anyone fortunate enough to join me at the table.
-My favorite cousine is the same which I ate at my homeland, but I like experiments and trying to eat something new from time to time.
+#### Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
-![Pelmeni](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pelmeni_Russian.jpg/1920px-Pelmeni_Russian.jpg)
+#### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+</div>
 
----------------------------------------
+---
 
-### Learning:
-`Currently I am learning Java in DCI`
+### 🔨 Projects
+- **[Project 1](https://github.com/yourprofile/project1)**: There will be description of my project.
+- **[Project 2](https://github.com/yourprofile/project2)**: There will be description of my project.
 
--------------------------------
-
-
-Feel free to connect with me, and let's share experiences, recommendations, and perhaps even embark on a journey of discovery together!
+---
+### 🎓 Education
+- **Saratov State Univercity**: CSIT
 
