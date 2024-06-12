@@ -29,13 +29,16 @@
 
 #### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+#### Other
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 </div>
 
 ---
 
 ### 🔨 Projects
-- **[Project 1](https://github.com/yourprofile/project1)**: There will be description of my project.
-- **[Project 2](https://github.com/yourprofile/project2)**: There will be description of my project.
+- **[Handyman service](https://github.com/andreymasunov1/handymanservice)**: Springboot, Docker. [Demo](https://handymanservice.onrender.com/) (~30 seconds of open time due to render.com free plan)
+- **[Is holiday today?](https://github.com/andreymasunov1/isholidaytoday)**: CSS, JS, HTML [Demo](https://andreymasunov1.github.io/isholidaytoday/).
 
 ---
 ### 🎓 Education
