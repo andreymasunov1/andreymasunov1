@@ -38,7 +38,8 @@
 
 ### 🔨 Projects
 - **[Handyman service](https://github.com/andreymasunov1/handymanservice)**: Springboot, Docker. [Demo](https://handymanservice.onrender.com/) (~30 seconds of open time due to render.com free plan)
-- **[Is holiday today?](https://github.com/andreymasunov1/isholidaytoday)**: CSS, JS, HTML [Demo](https://andreymasunov1.github.io/isholidaytoday/).
+- **[Is holiday today?](https://github.com/andreymasunov1/isholidaytoday)**: CSS, JS, HTML [Demo](https://andreymasunov1.github.io/isholidaytoday/)
+- **[JavaMapCollectionDesicionMaker](https://github.com/andreymasunov1/JavaMapCollectionDesicionMaker)**: CSS, JS, HTML [Demo](https://andreymasunov1.github.io/JavaMapCollectionDesicionMaker/)
 
 ---
 ### 🎓 Education
