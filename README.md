@@ -54,7 +54,7 @@
 ---
 
 ### 🔨 Projects
-- **[Sharolink] ([https://sharolink.com](https://github.com/andreymasunov1/referrallink))**: Java, Springboot, PostgreSQL, Docker, AWS [Demo](https://sharolink.com) 
+- **[Sharolink]([https://sharolink.com](https://github.com/andreymasunov1/referrallink))**: Java, Springboot, PostgreSQL, Docker, AWS [Demo](https://sharolink.com) 
 - **[Handyman service](https://github.com/andreymasunov1/handymanservice)**: Springboot, Docker. [Demo](https://handymanservice.onrender.com/) (~30 seconds of open time due to render.com free plan)
 - **[Is holiday today?](https://github.com/andreymasunov1/isholidaytoday)**: CSS, JS, HTML [Demo](https://andreymasunov1.github.io/isholidaytoday/)
 - **[JavaMapCollectionDesicionMaker](https://github.com/andreymasunov1/JavaMapCollectionDesicionMaker)**: CSS, JS, HTML [Demo](https://andreymasunov1.github.io/JavaMapCollectionDesicionMaker/)
@@ -62,4 +62,5 @@
 ---
 ### 🎓 Education
 - **Saratov State Univercity**: CSIT
+- **Digital Career Institute**: Java Software engineer
 
